@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "name": "javascript-review",
+  "version": "1.0.0",
+  "description": "JavaScript Review",
+  "module": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  }
+}

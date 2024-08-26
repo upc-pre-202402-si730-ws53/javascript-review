@@ -11,5 +11,11 @@ Sample JavaScript project illustrating the use of the following concepts:
 - npm
 
 ## Dependencies
-
+- uuid (https://www.npmjs.com/package/uuid)
 ## Execution
+To run the project, execute the following command:
+```bash
+npm start
+```
+
+
